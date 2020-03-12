@@ -1,0 +1,14 @@
+../00augdc.m5
+../01augdc.m5
+../02augdc.m5
+../03augdc.m5
+../04augdc.m5
+../05augdc.m5
+../07augdc.m5
+../08augdc.m5
+../09augdc.m5
+../10augdc.m5
+../11augdc.m5
+../12augdc.m5
+../13augdc.m5
+../14augdc.m5
